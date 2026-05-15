@@ -2,7 +2,7 @@ import requests
 import re
 
 # 源地址
-SOURCE_URL = "https://iptv-org.github.io/iptv/index.m3u"
+SOURCE_URL = "https://ua.fongmi.eu.org/box.php?url=https://iptv-org.github.io/iptv/index.m3u"
 
 # 分组关键词
 rule = {
